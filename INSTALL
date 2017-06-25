@@ -1,0 +1,9 @@
+Building ImraCoin
+
+See doc/readme-qt.rst for instructions on building ImraCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ImraCoin.
+
+See doc/build-*.txt for instructions on building imracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ImraCoin.
